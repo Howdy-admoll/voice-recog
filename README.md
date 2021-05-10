@@ -1,5 +1,7 @@
 # voice-recog
 
+- Beginners and Newbies will actually find this interesting to start with
+
 - Convert voice to text.
 
 - interactive kind of bot
