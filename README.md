@@ -4,6 +4,8 @@
 
 - Convert voice to text.
 
+- SpeechRecognition
+
 - interactive kind of bot
 
 - built mainly with Javascript no framework
