@@ -5,3 +5,5 @@
 - interactive kind of bot
 
 - built mainly with Javascript no framework
+
+- As of now not fed with any data
