@@ -12,6 +12,6 @@
 
 - As of now not fed with any data
 
-- Simple HTML5 page to redesign, you can fork this project.
+- Simple HTML5 page to redesign or add , you can fork this project.
 
 - Happy Coding
