@@ -8,7 +8,7 @@
 
 - interactive kind of bot
 
-- built mainly with Javascript no framework
+- built mainly with Javascript and Html no framework
 
 - As of now not fed with any data
 
